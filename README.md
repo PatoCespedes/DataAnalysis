@@ -1,2 +1,2 @@
 # DataAnalysis
-Curso Data Analisis
+Curso Analisis de Datos
